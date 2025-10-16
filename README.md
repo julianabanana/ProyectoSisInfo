@@ -8,7 +8,7 @@
 
 Repositorio para el proyecto integrador de la materia Sistemas de Información
 
-## 👥 Integrantes del Grupo | *"BugBusters"*
+## 👥 Integrantes del Grupo | *"UNabombers"*
 
 | # | Nombre Completo | Correo Electrónico |
 | :-- | :--- | :--- |
