@@ -14,5 +14,5 @@ Repositorio para el proyecto integrador de la materia Sistemas de Información
 | :-- | :--- | :--- |
 | 1 | JULIANA PARRA CARO | `juparraca@unal.edu.co` |
 | 2 | C | `@unal.edu.co` |
-| 3 | A | `@unal.edu.co` |
+| 3 | NICOLAS FAJARDO RAMIREZ | `nfajardor@unal.edu.co` |
 | 4 | J | `@unal.edu.co` |
