@@ -1,0 +1,13 @@
+FACTURA #1
+Fecha: 2025-11-26 02:32:32
+Cliente: alice
+--------------------
+1 x Hamburguesa = $25000
+1 x COMBO = $-3000
+1 x Papas Fritas = $8000
+1 x Agua = $5000
+1 x Pan 4 (Picante) = $0
+1 x SIN Pepinillos = $0
+1 x Extra Tocineta = $3000
+====================
+TOTAL: $38000
